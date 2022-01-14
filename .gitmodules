@@ -1,0 +1,6 @@
+[submodule ".config/vimrc"]
+	path = .config/vimrc
+	url = https://github.com/trhopkins/vimrc
+[submodule ".local/share/nvim/site/pack/paqs/start/paq-nvim"]
+	path = .local/share/nvim/site/pack/paqs/start/paq-nvim
+	url = https://github.com/savq/paq-nvim.git
